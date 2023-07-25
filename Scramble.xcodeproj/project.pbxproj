@@ -18,6 +18,7 @@
 		2F42783F2A546C410064B9F8 /* ScrambleGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F42783E2A546C410064B9F8 /* ScrambleGame.swift */; };
 		2F4278412A546E7A0064B9F8 /* ScrambleGameManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4278402A546E7A0064B9F8 /* ScrambleGameManager.swift */; };
 		2F70A7492A56E86200870DF3 /* WordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F70A7482A56E86200870DF3 /* WordList.swift */; };
+		2FFD2B1F2A703261001F1219 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2FFD2B1E2A703261001F1219 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		2F42783E2A546C410064B9F8 /* ScrambleGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleGame.swift; sourceTree = "<group>"; };
 		2F4278402A546E7A0064B9F8 /* ScrambleGameManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrambleGameManager.swift; sourceTree = "<group>"; };
 		2F70A7482A56E86200870DF3 /* WordList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordList.swift; sourceTree = "<group>"; };
+		2FFD2B1E2A703261001F1219 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -49,6 +51,7 @@
 		2F4278242A546B8F0064B9F8 = {
 			isa = PBXGroup;
 			children = (
+				2FFD2B1E2A703261001F1219 /* README.md */,
 				2F42782F2A546B8F0064B9F8 /* Scramble */,
 				2F42782E2A546B8F0064B9F8 /* Products */,
 			);
@@ -148,6 +151,7 @@
 			files = (
 				2F23057E2A56F0CB0042BD76 /* wordlist_generating.txt in Resources */,
 				2F4278382A546B900064B9F8 /* Preview Assets.xcassets in Resources */,
+				2FFD2B1F2A703261001F1219 /* README.md in Resources */,
 				2F348DA62A5EE1BB00E676A7 /* wordlist.txt in Resources */,
 				2F4278352A546B900064B9F8 /* Assets.xcassets in Resources */,
 			);
